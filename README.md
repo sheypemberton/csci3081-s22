@@ -8,6 +8,9 @@ Shey Pemberton - pembe020 </br>
 # Link to video demo
 https://umn.zoom.us/rec/play/_Zzt239wQ8r2ITZXND5GWLIanzCKNYVkwUmAtC8Vq_o0BvLhVY6ineHLNu7nBhK69wOc1716yHNqHIWJ.QfLsGGEzBR0JA-Gg?continueMode=true <br>
 
+# Link to write up
+https://docs.google.com/document/d/1xSCJIey-pdJQb0xepqdQIXM5UMmWQtVw4Rjz1DCprO0/edit?usp=sharing
+
 # Names/paths to added files
 
 
