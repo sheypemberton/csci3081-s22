@@ -5,6 +5,9 @@ Alex King - king1493 </br>
 Alex Grey - shust072 </br>
 Shey Pemberton - pembe020 </br>
 
+# Link to video demo
+https://umn.zoom.us/rec/play/_Zzt239wQ8r2ITZXND5GWLIanzCKNYVkwUmAtC8Vq_o0BvLhVY6ineHLNu7nBhK69wOc1716yHNqHIWJ.QfLsGGEzBR0JA-Gg?continueMode=true <br>
+
 # Names/paths to added files
 
 
