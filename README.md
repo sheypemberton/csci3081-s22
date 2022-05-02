@@ -41,10 +41,10 @@ project/libs/transit/src/SpeedDownDecorator.cc</br>
 
 # Sprint Retrospective
 What went well?</br>
-Deciding who should work on which parts of the project went well, as we each had a different coding background. Using our repo as a team also worked well to keep track of progress without needing to copy paste over each others work. </br>
+Deciding who should work on which parts of the project went well, as we each had a different coding background. Using our repo as a team also worked well to keep track of progress without needing to copy-paste over each others work. </br>
 What could have gone better? </br>
-Towards the end, we weren't disciplined with our branches and let our 'collider' branch become more significant than the main. This made merging our working project back into the main a problem. We then had to create a new repo altogether and push the contents into one our lab9 repos in order to finalize our submission. </br>
+Towards the end, we weren't disciplined with our branches and let our 'collider' branch become more significant than the main. This made merging our working project back into the main, a problem. We then had to create a new repo altogether and push the contents into one of our lab9 repos in order to finalize our submission. </br>
 What will we try next?</br>
-We are going to try and extend the pathfinding algorithms to account for the various power up locations when determining their optimal route.  
+We are going to try and extend the pathfinding algorithms to account for the various power-up locations when determining their optimal route.  
 What questions do we have?</br>
-How to implement decorators that change the size and color of the drone in real time? (We didn't have time to implement this)
+How to implement decorators that change the size and color of the drone during run time? (We didn't have time to implement this)
