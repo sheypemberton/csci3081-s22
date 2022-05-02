@@ -18,12 +18,14 @@ project/libs/transit/include/SpeedUpDecorator.h</br>
 project/libs/transit/include/PowerUpFactory.h</br>
 project/libs/transit/include/powerUp.h</br>
 project/libs/transit/include/PowerUpDecorator.h</br>
+project/libs/transit/include/SphereCollider.h</br>
+project/libs/transit/include/SpeedDownDecorator.h</br>
 
-3081-hw4/project/libs/transit/src/math/point3.cc</br>
-3081-hw4/project/libs/transit/include/math/point3.h</br>
+3081-hw4/project/libs/transit/src/math/Point3.cc</br>
+3081-hw4/project/libs/transit/include/math/Point3.h</br>
 
-project/apps/transit_service/web/assets/model/greenbolt3.glb</br>
-project/apps/transit_service/web/assets/model/redarrow1.glb</br>
+project/apps/transit_service/web/assets/model/greenbolt4.glb</br>
+project/apps/transit_service/web/assets/model/redarrow2.glb</br>
 project/apps/transit_service/web/assets/model/questionmark1.glb</br>
 (+ previous versions of our custom .glb files)</br>
 
@@ -33,6 +35,8 @@ project/libs/transit/src/powerUp.cc</br>
 project/libs/transit/src/PowerUpDecorator.cc</br>
 project/libs/transit/src/PowerUpFactory.cc</br>
 project/libs/transit/src/SpeedUpDecorator.cc</br>
+project/libs/transit/src/SphereCollider.cc</br>
+project/libs/transit/src/SpeedDownDecorator.cc</br>
 
 
 # Sprint Retrospective
